@@ -18,6 +18,8 @@ import file.MySummaryJob1.MyMapper;
 import file.MySummaryJob1.MyReducer;
 //import file.MySummaryJob1.MyTableReducer;
 
+//Author @Amandeep Singh Johar
+
 public class Driver1 {
 	public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
 		Configuration config = HBaseConfiguration.create();
